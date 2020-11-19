@@ -8,6 +8,8 @@ I'm a Software & Solution Developer @ [Quick Release](https://github.com/QuickRe
 
 - I am really proud of my contribution to [Stigma Statistics](https://www.stigmastats.co.uk/) - developing a Django web application to collate and map suicide data to uncover prevention insights 
 
+- I wrote an article about [Best Practice for Pull Requests](https://medium.com/@naomicrosthwaite/quality-reviews-best-practice-to-pull-requests-8973b44f45e8) as an outcome to an internal workstream about Pull Request Culture. I really enjoyed writing it, and I am motivated to write more articles from my experience and outlook 📝
+
 ⚡ Outside of work I enjoy upcycling furniture, spinning and going for walks 
 
 #### Find me on the Web 🕸️
