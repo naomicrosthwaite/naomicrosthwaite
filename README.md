@@ -4,7 +4,7 @@ I'm a Software & Solution Developer @ [Quick Release](https://github.com/QuickRe
 
 #### Some things I have done that I am proud of 🦚
 
-- A dynamic dropdown using [Select2](https://select2.org/) which added a colour icon to the options. When selected, the option then condensed to only show that coloured icon! This meant that the dropdown wasn't overly cluttered with information <img src="/dropdown.gif" height="200"/>
+- A small feature where I created a dynamic dropdown using [Select2](https://select2.org/) which added a colour icon to the options. When selected, the option then condensed to only show that coloured icon! This meant that the dropdown wasn't overly cluttered with information <img src="/dropdown.gif" height="200"/>
 
 - I am really proud of my contribution to [Stigma Statistics](https://www.stigmastats.co.uk/) - developing a Django web application to collate and map suicide data to uncover prevention insights 
 
